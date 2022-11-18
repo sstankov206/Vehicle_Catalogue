@@ -1,0 +1,15 @@
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/VehicleCatalogue.csproj.AssemblyReference.cache
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/VehicleCatalogue.AssemblyInfoInputs.cache
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/VehicleCatalogue.AssemblyInfo.cs
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/VehicleCatalogue.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/bin/Debug/net6.0/VehicleCatalogue
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/bin/Debug/net6.0/VehicleCatalogue.deps.json
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/bin/Debug/net6.0/VehicleCatalogue.runtimeconfig.json
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/bin/Debug/net6.0/VehicleCatalogue.dll
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/bin/Debug/net6.0/VehicleCatalogue.pdb
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/VehicleCatalogue.dll
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/refint/VehicleCatalogue.dll
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/VehicleCatalogue.pdb
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/VehicleCatalogue.genruntimeconfig.cache
+/Users/stan/Projects/Vehicle_Catalogue/VehicleCatalogue/VehicleCatalogue/obj/Debug/net6.0/ref/VehicleCatalogue.dll

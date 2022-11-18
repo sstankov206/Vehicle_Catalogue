@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{62237C11-3C64-4BFD-A823-EB0A4EC72A45}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VehicleCatalogue/Catalog.cs">
+    <Files>
+      <File FileName="VehicleCatalogue/Program.cs" Line="18" Column="3" />
+      <File FileName="VehicleCatalogue/Car.cs" Line="34" Column="6" />
+      <File FileName="VehicleCatalogue/Truck.cs" Line="8" Column="37" />
+      <File FileName="VehicleCatalogue/Catalog.cs" Line="41" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VehicleCatalogue" expanded="True">
+            <Node name="VehicleCatalogue" expanded="True">
+              <Node name="Catalog.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VehicleCatalogue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
